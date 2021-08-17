@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=roboto+condensed:wght@300&display=swap");
+body {
+  font-family: "Roboto Condesed" sans-serif;
+}
+.tsparticles-canvas-el {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
+}

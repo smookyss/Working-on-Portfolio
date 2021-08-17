@@ -1,0 +1,11 @@
+[33mcommit 7c352a3fcf6777b407a5d87d96fd04045cf755ec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: SmookyS <malek.snoussi@gmx.de>
+Date:   Tue Aug 17 12:33:30 2021 +0200
+
+    Cleaning React to start
+
+[33mcommit 5c2789d949bd00fe7854e47be3e75751a2d908bf[m
+Author: SmookyS <malek.snoussi@gmx.de>
+Date:   Tue Aug 17 11:30:14 2021 +0200
+
+    Initialize project using Create React App
